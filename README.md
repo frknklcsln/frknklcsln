@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @frknklcsln
-- 👀 I’m interested in Operations Research.
-- 🌱 I’m currently learning Optimization, Heuristic Methods and Graph Theory.
+
 - 📫 How to reach me linkedin.com/in/frknklcsln
 
 <!---
